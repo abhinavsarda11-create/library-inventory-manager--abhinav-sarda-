@@ -1,0 +1,20 @@
+[
+    {
+        "title": "dictonary",
+        "author": "mridul",
+        "isbn": "213123",
+        "status": "available"
+    },
+    {
+        "title": "harry potter",
+        "author": "anushka",
+        "isbn": "2348927",
+        "status": "available"
+    },
+    {
+        "title": "The art of being alone",
+        "author": "abhinav",
+        "isbn": "9882345",
+        "status": "available"
+    }
+]
